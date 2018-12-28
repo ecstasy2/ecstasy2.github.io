@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{331:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Build and Run"}},allMarkdownRemark:{edges:[{node:{excerpt:"Far far away, behind the word mountains, far from the countries Vokalia and\nConsonantia, there live the blind texts. Separated they live in…",fields:{slug:"/hi-folks/"},frontmatter:{date:"20 January, 2018",title:"Ethereum Proof of State protocol explained"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-2585d3473ee54e9930e4.js.map

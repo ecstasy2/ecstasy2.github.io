@@ -1,0 +1,26 @@
+## Created with gatsby-plugin-netlify
+
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  X-Content-Type-Options: nosniff
+/static/*
+  Cache-Control: max-age=31536000
+/offline-plugin-app-shell-fallback/
+  Link: </commons-3b76ebf60c4a15e73f01.js>; rel=preload; as=script
+  Link: </app-8a6cb7930f891788cb97.js>; rel=preload; as=script
+  Link: </path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js>; rel=preload; as=script
+  Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-9ae34c0d0c160b846d23.js>; rel=preload; as=script
+/hi-folks/
+  Link: </commons-3b76ebf60c4a15e73f01.js>; rel=preload; as=script
+  Link: </app-8a6cb7930f891788cb97.js>; rel=preload; as=script
+  Link: </path---hi-folks-b690cb470a09cd75f48a.js>; rel=preload; as=script
+  Link: </component---src-templates-blog-post-js-6a4959db1e2eebf5852e.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-9ae34c0d0c160b846d23.js>; rel=preload; as=script
+/
+  Link: </commons-3b76ebf60c4a15e73f01.js>; rel=preload; as=script
+  Link: </app-8a6cb7930f891788cb97.js>; rel=preload; as=script
+  Link: </path---index-2585d3473ee54e9930e4.js>; rel=preload; as=script
+  Link: </component---src-pages-index-js-e2f148e983860fb0be85.js>; rel=preload; as=script
+  Link: </component---src-layouts-index-js-9ae34c0d0c160b846d23.js>; rel=preload; as=script
